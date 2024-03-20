@@ -1,0 +1,11 @@
+{
+  "name": "rinha-be-2023-koa",
+  "version": "1.0.0",
+  "description": "## Description This is a backend application to practice the concepts of REST API, using Node.js, Koa.js, and Postgres. Also using Docker to containerize the application, and nginx as a reverse proxy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ariannmichael",
+  "license": "ISC"
+}
